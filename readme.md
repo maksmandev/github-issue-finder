@@ -6,6 +6,10 @@
 
 Recommended Node version 16.13.2
 
+### Environment
+
+Add <code>.env</code> file and set variables from <code>.env.example</code>
+
 ### Commands
 
 ```bash
